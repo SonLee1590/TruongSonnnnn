@@ -179,16 +179,14 @@
 	width:150px;
 	height:150px;
 	background:#CC3300;
-
 }
-
 	.a{
 		width:150px;
 		height:30px;
 		background:#fa8c16;
 		height:30px;
 		line-height:30px;
-		text-align:center;
+		text-align:"center";
 	}
 	.c{
 		width:150px;
